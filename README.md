@@ -6,6 +6,7 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <p>Wellcome to my page </p>
+  <p> FE developer </p>
 
 
 
